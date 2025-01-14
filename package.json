@@ -1,0 +1,25 @@
+{
+  "name": "rootstock-token-lists",
+  "version": "0.1.0",
+  "description": "A mapping of Rootstock contract addresses to broadly accepted icons for those addresses.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test"
+  },
+  "files": [
+    "index.js",
+    "rootstock-tokens.json",
+    "contract-map.json",
+    "images/"
+  ],
+  "keywords": [
+    "rsk",
+    "contract",
+    "icons",
+    "tokens",
+    "metadata",
+    "logo"
+  ],
+  "license": "ISC"
+}
