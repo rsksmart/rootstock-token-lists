@@ -25,8 +25,9 @@ https://github.com/Uniswap/token-lists
 
 ## Deployment
 
-`tokens-list.json` file will be served via github pages using a custom domain. Exmaple: https://tokens.rootstock.io 
+The generated tokens list file: `tokens-list.json` will be served via github pages using a custom domain. 
 
+Exmaple domain: https://tokens.rootstock.io // Note: This is not live and yet to be discussed with devops.
 
 ## How to add tokens to Uniswap list
 
