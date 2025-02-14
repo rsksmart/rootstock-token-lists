@@ -1,6 +1,6 @@
 {
   "name": "Rootstock Tokens List",
-  "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rootstock-orange.png",
+  "logoURI": "https://avatars.githubusercontent.com/u/28455056",
   "keywords": [
     "audited",
     "verified",
@@ -21,7 +21,7 @@
       "symbol": "RIF",
       "address": "0x2aCc95758f8b5F583470bA265Eb685a8f45fC9D5",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rif.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif.png",
       "tags": []
     },
     {
@@ -30,7 +30,7 @@
       "symbol": "USDRIF",
       "address": "0x3A15461d8aE0F0Fb5Fa2629e9DA7D66A794a6e37",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/usdrif.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdrif.png",
       "tags": []
     },
     {
@@ -39,7 +39,7 @@
       "symbol": "stRIF",
       "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/",
       "tags": []
     },
     {
@@ -48,7 +48,7 @@
       "symbol": "RDOC",
       "address": "0x2d919f19D4892381d58EdEbEcA66D5642ceF1A1F",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rdoc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rdoc.png",
       "tags": []
     },
     {
@@ -57,7 +57,7 @@
       "symbol": "RIFP",
       "address": "0xF4d27C56595eD59B66cC7f03CFF5193E4Bd74a61",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rifpro.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rifpro.png",
       "tags": []
     },
     {
@@ -66,7 +66,7 @@
       "symbol": "DOC",
       "address": "0xE700691Da7B9851F2F35f8b8182C69C53ccad9DB",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/doc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/doc.png",
       "tags": []
     },
     {
@@ -75,7 +75,7 @@
       "symbol": "BPro",
       "address": "0x440cd83C160de5C96DDb20246815EA44C7Abbca8",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/bpro.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/bpro.png",
       "tags": []
     },
     {
@@ -84,7 +84,7 @@
       "symbol": "RNS",
       "address": "0x45d3E4fB311982a06ba52359d44cB4f5980e0ef1",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rif.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif.png",
       "tags": []
     },
     {
@@ -93,7 +93,7 @@
       "symbol": "INV",
       "address": "0xe0CFF8a40f540657c62EB4CAC34b915e5ed8d8FF",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/inv.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/inv.png",
       "tags": []
     },
     {
@@ -102,7 +102,7 @@
       "symbol": "rDAI",
       "address": "0x6B1a73d547F4009A26B8485b63D7015D248AD406",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/dai.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/dai.png",
       "tags": []
     },
     {
@@ -111,7 +111,7 @@
       "symbol": "WRBTC",
       "address": "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/wrbtc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/wrbtc.png",
       "tags": []
     },
     {
@@ -120,7 +120,7 @@
       "symbol": "🦄RBTC:RIF",
       "address": "0x818C0A92aae155e93419B5a7323E8e8AE649F287",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rif-rbtc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif-rbtc.png",
       "tags": []
     },
     {
@@ -129,7 +129,7 @@
       "symbol": "🦄RIF:DOC",
       "address": "0xDA066D0fD764c8035Cd56798F0F0D2FE719CC62B",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rif-doc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif-doc.png",
       "tags": []
     },
     {
@@ -138,7 +138,7 @@
       "symbol": "🦄BPRO:DOC",
       "address": "0xe66388940C3db98a7b9Fcf628702FFBEc3a106a3",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/bpro-doc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/bpro-doc.png",
       "tags": []
     },
     {
@@ -147,7 +147,7 @@
       "symbol": "🦄RDOC:DOC",
       "address": "0x90Fc6FBb9C7ecfeCF0AcB44385E6a4D076817feb",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rdoc-doc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rdoc-doc.png",
       "tags": []
     },
     {
@@ -156,7 +156,7 @@
       "symbol": "🦄DAI:DOC",
       "address": "0x22DaA89FDF6FB6a6771652141E6F18b8EBD86960",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rdai-doc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rdai-doc.png",
       "tags": []
     },
     {
@@ -165,7 +165,7 @@
       "symbol": "🦄rDAI:RBTC",
       "address": "0xc9fE8E7A47EFf9f62f2684a540619D52FBcD6649",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rdai-rbtc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rdai-rbtc.png",
       "tags": []
     },
     {
@@ -174,7 +174,7 @@
       "symbol": "🦄RIF:rDAI",
       "address": "0x2D5146C744Bef25B27d0DC8523Ed547BF7514D84",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rif-rdai.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif-rdai.png",
       "tags": []
     },
     {
@@ -183,7 +183,7 @@
       "symbol": "rFLIXX",
       "address": "0x73C08467E23F7DcB7DdbBc8d05041b74467A498A",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/flixx.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/flixx.png",
       "tags": []
     },
     {
@@ -192,7 +192,7 @@
       "symbol": "rLINK",
       "address": "0x14ADAE34beF7Ca957ce2DDe5AdD97EA050123827",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/link.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/link.png",
       "tags": []
     },
     {
@@ -201,7 +201,7 @@
       "symbol": "rUSDC",
       "address": "0x1BDa44fda023F2af8280a16FD1b01D1A493BA6c4",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/usdc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdc.png",
       "tags": []
     },
     {
@@ -210,7 +210,7 @@
       "symbol": "rUSDT",
       "address": "0xEf213441a85DF4d7acBdAe0Cf78004E1e486BB96",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/usdt.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdt.png",
       "tags": []
     },
     {
@@ -219,7 +219,7 @@
       "symbol": "rRFOX",
       "address": "0x9C3a5F8d686fadE293c0Ce989A62a34408C4e307",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rfox.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rfox.png",
       "tags": []
     },
     {
@@ -228,7 +228,7 @@
       "symbol": "crUSDT",
       "address": "0xD256C121A507cadd2687599E27fA45E31B7c3199",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/crusdt.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/crusdt.png",
       "tags": []
     },
     {
@@ -237,7 +237,7 @@
       "symbol": "cRIF",
       "address": "0xB7Ff2c56c897562c0AA6747D2679d35F5e937492",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/crif.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/crif.png",
       "tags": []
     },
     {
@@ -246,7 +246,7 @@
       "symbol": "cRBTC",
       "address": "0x872664A885A1995D754E3666A23FaD5c801401C4",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/crbtc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/crbtc.png",
       "tags": []
     },
     {
@@ -255,7 +255,7 @@
       "symbol": "rBUND",
       "address": "0x4991516DF6053121121274397A8C1DAD608bc95B",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/bund.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/bund.png",
       "tags": []
     },
     {
@@ -264,7 +264,7 @@
       "symbol": "rAMLT",
       "address": "0xFF9EA341d9ea91CB7c54342354377f5104Fd403f",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/amlt.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/amlt.png",
       "tags": []
     },
     {
@@ -273,7 +273,7 @@
       "symbol": "SOV",
       "address": "0xEfC78FC7D48B64958315949279bA181C2114abbD",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/sov.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/sov.png",
       "tags": []
     },
     {
@@ -282,7 +282,7 @@
       "symbol": "MOC",
       "address": "0x9aC7Fe28967b30e3a4E6E03286D715B42B453d10",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/moc.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/moc.png",
       "tags": []
     },
     {
@@ -291,7 +291,7 @@
       "symbol": "rUBI",
       "address": "0x70566D8541beaBe984c8BAbF8A816Ed908514Ba8",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/ubi.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/ubi.png",
       "tags": []
     },
     {
@@ -300,7 +300,7 @@
       "symbol": "ARSCB",
       "address": "0xd52da63689543924dcA66bCBe2e2Ea599c45d575",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/arscb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/arscb.png",
       "tags": []
     },
     {
@@ -309,7 +309,7 @@
       "symbol": "USDCB",
       "address": "0xaA5dc2Ea0E056Fc962F48aB25547d66d3586eE8a",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/usdcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdcb.png",
       "tags": []
     },
     {
@@ -318,7 +318,7 @@
       "symbol": "VESCB",
       "address": "0xE9F78E507F24537f3f78c212Cf93F65eEC9054C2",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/vescb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/vescb.png",
       "tags": []
     },
     {
@@ -327,7 +327,7 @@
       "symbol": "COPCB",
       "address": "0x7C459C5B11E2815DB085DDA9EC314a9cDe00a082",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/copcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/copcb.png",
       "tags": []
     },
     {
@@ -336,7 +336,7 @@
       "symbol": "BRLCB",
       "address": "0x3e040020648A2f2c872ce0c7165ba5aD7841c972",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/brlcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/brlcb.png",
       "tags": []
     },
     {
@@ -345,7 +345,7 @@
       "symbol": "EURCB",
       "address": "0xae2CEB4B57AdE22643BE2909425105d5114b1DbC",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/eurcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/eurcb.png",
       "tags": []
     },
     {
@@ -354,7 +354,7 @@
       "symbol": "PABCB",
       "address": "0x99AF5DeB8dAebcD36FCCd16fa46dC95D922cDe5b",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/pabcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/pabcb.png",
       "tags": []
     },
     {
@@ -363,7 +363,7 @@
       "symbol": "PYGCB",
       "address": "0xA05Fd8082e19923aa4868ff3C2aE48850B734736",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/pygcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/pygcb.png",
       "tags": []
     },
     {
@@ -372,7 +372,7 @@
       "symbol": "PENCB",
       "address": "0x0f6895FA2679453d2c32C5f6E2f00e4621c57Ca2",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/pencb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/pencb.png",
       "tags": []
     },
     {
@@ -381,7 +381,7 @@
       "symbol": "CNYCB",
       "address": "0x61B50d8fB43Cc28b56EE7f9DA32aE46c3c1C68A3",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/cnycb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/cnycb.png",
       "tags": []
     },
     {
@@ -390,7 +390,7 @@
       "symbol": "MXNCB",
       "address": "0x2058BA9577C4F90246bEa9D74Ae2e4Cd0167A123",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/mxncb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/mxncb.png",
       "tags": []
     },
     {
@@ -399,7 +399,7 @@
       "symbol": "BOBCB",
       "address": "0x977675B863b3b1Cf46A927fdDcbe0c831bF50135",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/bobcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/bobcb.png",
       "tags": []
     },
     {
@@ -408,7 +408,7 @@
       "symbol": "IDRCB",
       "address": "0x3d9f9e1f8151410BEdA306fDF8626a02e03ea8aa",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/idrcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/idrcb.png",
       "tags": []
     },
     {
@@ -417,7 +417,7 @@
       "symbol": "UYUCB",
       "address": "0xd8132625b10B3962239F6842981dCE02f1a163D2",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/uyucb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/uyucb.png",
       "tags": []
     },
     {
@@ -426,7 +426,7 @@
       "symbol": "BTCCB",
       "address": "0xAb2d290b7a600f5eA8d5B933f6F15c867Fd7e60e",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/btccb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/btccb.png",
       "tags": []
     },
     {
@@ -435,7 +435,7 @@
       "symbol": "ETHCB",
       "address": "0x84C0Cb1D6623cfB3546a79c66eB96b874CE6659d",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/ethcb.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/ethcb.png",
       "tags": []
     },
     {
@@ -444,7 +444,7 @@
       "symbol": "BRZ",
       "address": "0xE355C280131dfaf18Bf1C3648aEE3c396Db6B5Fd",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/brz.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/brz.png",
       "tags": []
     },
     {
@@ -453,7 +453,7 @@
       "symbol": "XUSD",
       "address": "0xb5999795BE0eBb5BAb23144Aa5fD6a02d080299f",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/xusd.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/xusd.png",
       "tags": []
     },
     {
@@ -462,7 +462,7 @@
       "symbol": "DLLR",
       "address": "0xc1411567D2670E24D9c4Daaa7CdA95686E1250Aa",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/dllr.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/dllr.png",
       "tags": []
     },
     {
@@ -471,7 +471,34 @@
       "symbol": "ZERO",
       "address": "0x451291d48f23782CB5609CED5a195B0C92EddC7b",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/zero.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/zero.png",
+      "tags": []
+    },
+    {
+      "name": "Bridged USDC (Stargate)",
+      "decimals": 18,
+      "symbol": "USDC.e",
+      "address": "0x74C9F2B00581F1b11Aa7Ff05aa9f608B7389de67",
+      "chainId": 30,
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdc.png",
+      "tags": []
+    },
+    {
+      "name": "USDT",
+      "decimals": 18,
+      "symbol": "USDT",
+      "address": "0xAF368c91793cb22739386DFCBbB2f1A9E4bcBEBf",
+      "chainId": 30,
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdt.png",
+      "tags": []
+    },
+    {
+      "name": "WETH",
+      "decimals": 18,
+      "symbol": "WETH",
+      "address": "0x2F6f07CDcf3588944bF4C42Ac74fF24bf56e7590",
+      "chainId": 30,
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/weth.png",
       "tags": []
     },
     {
@@ -480,11 +507,11 @@
       "symbol": "FISH",
       "address": "0x055a902303746382Fbb7D18f6aE0df56EFDC5213",
       "chainId": 30,
-      "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/fish.png",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/fish.png",
       "tags": []
     }
   ],
-  "timestamp": "2025-01-14T13:54:15.168Z",
+  "timestamp": "2025-02-14T11:02:26.546Z",
   "version": {
     "major": 0,
     "minor": 1,

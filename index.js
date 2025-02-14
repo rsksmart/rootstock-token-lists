@@ -1,56 +1,73 @@
-// Index file to generate rootstock-tokens-list.json
-
 const fs = require('fs');
 
-const json = require('./contract-map.json');
+const tokenUrl = 'https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/contract-map.json';
 
-const tokensList = [];
+const fetchTokens = async () => {
+  try {
+    const response = await fetch(tokenUrl);
 
-const output = {
-  "name": "Rootstock Tokens List",
-  "logoURI": "ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/rootstock-orange.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "lending",
-    "rsk",
-    "rootstock"
-  ],
-  "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset"
+    if (response.ok && response.status === 200) {
+      const data = await response.json();
+
+      return Promise.resolve(data);
     }
-  },
-  tokens: tokensList,
-  "timestamp": "",
-  "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
+
+    return Promise.resolve({});
+  } catch (e) {
+    return Promise.resolve({});
   }
 }
 
-for (address in json) {
-  const token = json[address];
-  tokensList.push({
-    "name":token.name,
-    "decimals": 18,
-    "symbol":  token.symbol,
-    "address": address,
-    "chainId": 30,
-    "logoURI": `ipfs://bafybeigplh4bk2yhwyn7fbyrh436b5jzsdmmjj544wuuqreg4sc7jwa2di/${token.logo}`,
-    "tags": []
-  })
-}
+void (async () => {
+  const tokensList = [];
+  const rawTokens = await fetchTokens();
+  const output = {
+    "name": "Rootstock Tokens List",
+    "logoURI": "https://avatars.githubusercontent.com/u/28455056",
+    "keywords": [
+      "audited",
+      "verified",
+      "lending",
+      "rsk",
+      "rootstock"
+    ],
+    "tags": {
+      "stablecoin": {
+        "name": "Stablecoin",
+        "description": "Tokens that are fixed to an external asset"
+      }
+    },
+    tokens: tokensList,
+    "timestamp": "",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
+  }
 
-output.timestamp = new Date().toISOString();
-output.tokens = tokensList;
+  for (address in rawTokens) {
+    const token = rawTokens[address];
+    tokensList.push({
+      "name": token.name,
+      "decimals": 18,
+      "symbol": token.symbol,
+      "address": address,
+      "chainId": 30,
+      "logoURI": `https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/${token.logo}`,
+      "tags": []
+    })
+  }
+
+  output.timestamp = new Date().toISOString();
+  output.tokens = tokensList;
 
 
-fs.writeFile('rootstock-tokens.json', JSON.stringify(output, null, 2), () => {
-  console.log('successfully generated rootstock-tokens-list.json!');
-});
+  fs.writeFile('tokens-list.json', JSON.stringify(output, null, 2), () => {
+    console.log('successfully generated tokens-list.json');
+  });
+
+})();
 
 
 

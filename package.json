@@ -4,14 +4,12 @@
   "description": "A mapping of Rootstock contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "generate": "node index.js",
     "test": "node test"
   },
   "files": [
     "index.js",
-    "rootstock-tokens.json",
-    "contract-map.json",
-    "images/"
+    "tokens-list.json"
   ],
   "keywords": [
     "rsk",
