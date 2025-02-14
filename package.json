@@ -5,8 +5,8 @@
   "description": "A mapping of Rootstock contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
-    "generate": "node index.js && node validate.js",
-    "validate": "node validate.js"
+    "generate": "node src/index.js && node src/validate.js",
+    "validate": "node src/validate.js"
   },
   "files": [
     "index.js",

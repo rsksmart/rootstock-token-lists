@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'fs'; 
 
 const tokenUrl = 'https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/contract-map.json';
 

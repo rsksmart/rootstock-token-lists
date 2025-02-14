@@ -2,7 +2,7 @@
 import { schema } from '@uniswap/token-lists';
 import Ajv from 'ajv';
 import addFormats from 'ajv-formats';
-import ROOTSTOCK_LIST from './tokens-list.json' with { type: "json" };
+import ROOTSTOCK_LIST from '../tokens-list.json' with { type: "json" };
 
 async function validate() {
   const ajv = new Ajv({ allErrors: true, verbose: true })

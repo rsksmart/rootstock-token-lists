@@ -15,6 +15,10 @@ Run following command to generate / update `tokens-list.json` file.
 npm run generate
 ```
 
+- The script `src/index.js` uses tokens defined in https://github.com/rsksmart/rsk-contract-metadata to generate `tokens-list.json` file according to Uniswap specification defined in https://github.com/Uniswap/token-lists 
+
+- The script `src/validate.js` validates the generated token list schema. Both commands are part of `npm run generate`.
+
 ## Uniswap Tokens list
 
 https://github.com/Uniswap/token-lists
