@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node index.js && node validate.js",
-    "test": "node test"
+    "validate": "node validate.js"
   },
   "files": [
     "index.js",
