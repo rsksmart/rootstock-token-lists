@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 const tokenUrl = 'https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/contract-map.json';
 
@@ -18,7 +18,7 @@ const fetchTokens = async () => {
   }
 }
 
-void (async () => {
+async function generate() {
   const tokensList = [];
   const rawTokens = await fetchTokens();
   const output = {
@@ -46,7 +46,7 @@ void (async () => {
     }
   }
 
-  for (address in rawTokens) {
+  for (const address in rawTokens) {
     const token = rawTokens[address];
     tokensList.push({
       "name": token.name,
@@ -66,9 +66,8 @@ void (async () => {
   fs.writeFile('tokens-list.json', JSON.stringify(output, null, 2), () => {
     console.log('successfully generated tokens-list.json');
   });
+}
 
-})();
-
-
-
-
+generate()
+  .then(console.log("Generated tokens-list.json file. ✅"))
+  .catch(console.error)

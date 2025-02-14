@@ -1,6 +1,7 @@
 ## Rootstock tokens list
 
-This project generates tokens list according to uniswap token speficication standard.
+This project generates Rootstock tokens list according to `Uniswap` token specification standard. 
+Uniswap token specification: https://github.com/Uniswap/token-lists 
 
 ## Why
 

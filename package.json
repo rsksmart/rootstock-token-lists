@@ -1,10 +1,11 @@
 {
   "name": "rootstock-token-lists",
   "version": "0.1.0",
+  "type": "module",
   "description": "A mapping of Rootstock contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
-    "generate": "node index.js",
+    "generate": "node index.js && node validate.js",
     "test": "node test"
   },
   "files": [
@@ -19,5 +20,10 @@
     "metadata",
     "logo"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.34",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
 }
