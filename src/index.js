@@ -66,6 +66,10 @@ async function generate() {
   fs.writeFile('tokens-list.json', JSON.stringify(output, null, 2), () => {
     console.log('successfully generated tokens-list.json');
   });
+
+  fs.writeFile('tokenlist.json', JSON.stringify(tokensList, null, 2), () => {
+    console.log('successfully generated tokenlist.json');
+  });
 }
 
 generate()
