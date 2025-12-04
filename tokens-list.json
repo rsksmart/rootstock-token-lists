@@ -509,9 +509,18 @@
       "chainId": 30,
       "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/fish.png",
       "tags": []
+    },
+    {
+      "name": "USD₮0",
+      "decimals": 18,
+      "symbol": "USD₮0",
+      "address": "0x779dED0C9e1022225F8e0630b35A9B54Be713736",
+      "chainId": 30,
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/usdt0.png",
+      "tags": []
     }
   ],
-  "timestamp": "2025-02-14T13:26:27.964Z",
+  "timestamp": "2025-12-04T14:03:20.904Z",
   "version": {
     "major": 0,
     "minor": 1,
