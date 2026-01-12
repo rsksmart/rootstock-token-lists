@@ -67,7 +67,16 @@ async function generate() {
     console.log('successfully generated tokens-list.json');
   });
 
-  fs.writeFile('tokenlist.json', JSON.stringify(tokensList, null, 2), () => {
+  fs.writeFile('tokenlist.json', JSON.stringify({
+     "name": "Rootstock Token List",
+  "timestamp": "2026-01-12T15:11:12.444Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["audited",
+      "verified",
+      "mainnet",
+      "rootstock"],
+  "tokens": tokensList
+  }, null, 2), () => {
     console.log('successfully generated tokenlist.json');
   });
 }
