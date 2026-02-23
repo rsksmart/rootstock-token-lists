@@ -48,11 +48,17 @@ async function generate() {
 
   for (const address in rawTokens) {
     const token = rawTokens[address];
+    let addr = address;
+    
+    if (token.symbol === 'WRBTC') {
+      addr = '0x542fDA317318eBF1d3DEAf76E0b632741A7e677d';
+    }
+
     tokensList.push({
       "name": token.name,
       "decimals": 18,
       "symbol": token.symbol,
-      "address": address,
+      "address": addr,
       "chainId": 30,
       "logoURI": `https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/${token.logo}`,
       "tags": []
