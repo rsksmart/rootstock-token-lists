@@ -109,7 +109,7 @@
       "name": "Wrapped RBTC on RSK",
       "decimals": 18,
       "symbol": "WRBTC",
-      "address": "0x967f8799aF07DF1534d48A95a5C9FEBE92c53ae0",
+      "address": "0x542fDA317318eBF1d3DEAf76E0b632741A7e677d",
       "chainId": 30,
       "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/wrbtc.png",
       "tags": []
@@ -520,7 +520,7 @@
       "tags": []
     }
   ],
-  "timestamp": "2026-01-12T15:12:38.028Z",
+  "timestamp": "2026-02-23T17:06:32.413Z",
   "version": {
     "major": 0,
     "minor": 1,
