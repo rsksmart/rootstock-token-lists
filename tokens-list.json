@@ -39,7 +39,7 @@
       "symbol": "stRIF",
       "address": "0x5db91e24bd32059584bbdb831a901f1199f3d459",
       "chainId": 30,
-      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/",
+      "logoURI": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/refs/heads/master/images/rif.png",
       "tags": []
     },
     {
@@ -520,10 +520,10 @@
       "tags": []
     }
   ],
-  "timestamp": "2026-02-23T17:06:32.413Z",
+  "timestamp": "2026-05-25T08:04:21.095Z",
   "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
+    "major": 1,
+    "minor": 0,
+    "patch": 1
   }
 }
